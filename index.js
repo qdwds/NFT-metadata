@@ -10,7 +10,7 @@ let metadataSource = {
 	description:
 		"Cartoon Calloway is heir to Calloway Arms, one of the world's leading mil-tech suppliers. Ingenious and determined, Cartoon has been searching for his missing father, and for SHRAP, since Earthfall.",
 	image:
-		"https://raw.githubusercontent.com/qdwds/NFT_metadata/main/images/5000.png",
+		"https://raw.githubusercontent.com/qdwds/NFT_metadata/master/images/theme.png",
 	attributes: [
 		{ trait_type: "health", value: 0 },
 		{ trait_type: "power", value: 0 },
