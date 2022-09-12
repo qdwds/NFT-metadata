@@ -1,0 +1,8 @@
+{
+    "name": "Cartoon Creatures",
+    "description": "NFT collection of cartoon animals",
+    "image": "https://raw.githubusercontent.com/qdwds/NFT-metadata/master/metadata/images/theme.png",
+    "external_link": "https://www.baidu.com",
+    "seller_fee_basis_points": 100, 
+    "fee_recipient": "0xB31C593361CeeDB9F7Abfd07209432AE152bb244"
+  }
