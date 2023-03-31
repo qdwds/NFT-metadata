@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #53",
+  "description": "Remember to replace this description",
+  "image": "ipfs://QmRXt1MYRZjPENjLkyYiA9NCmTdavFphXmLFBy2eWKD2DP/53.png",
+  "dna": "16216310648e0bea1230525c48a3bc5ec0bf5f01",
+  "edition": 53,
+  "date": 1680245772922,
+  "attributes": [
+    {
+      "trait_type": "bg",
+      "value": "bg"
+    },
+    {
+      "trait_type": "back",
+      "value": "back"
+    },
+    {
+      "trait_type": "macolor",
+      "value": "macolor"
+    },
+    {
+      "trait_type": "malunkuo",
+      "value": "mulunkuo"
+    },
+    {
+      "trait_type": "eye",
+      "value": "eye"
+    },
+    {
+      "trait_type": "uphead",
+      "value": "uphead"
+    },
+    {
+      "trait_type": "lhand",
+      "value": "lhand"
+    },
+    {
+      "trait_type": "rhand",
+      "value": "rhand"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
