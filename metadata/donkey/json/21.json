@@ -1,7 +1,7 @@
 {
   "name": "Your Collection #21",
   "description": "Remember to replace this description",
-  "image": "ipfs://QmRXt1MYRZjPENjLkyYiA9NCmTdavFphXmLFBy2eWKD2DP/21.png",
+  "image": "https://raw.githubusercontent.com/qdwds/NFT-metadata/master/metadata/donkey/images/21.png",
   "dna": "871453b364c2366d9fc623daa0238cc53a7e74f8",
   "edition": 21,
   "date": 1680245769985,
