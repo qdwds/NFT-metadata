@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #1",
+  "description": "b级NFT",
+  "image": "https://raw.githubusercontent.com/qdwds/NFT-metadata/master/metadata/race/images/1.png",
+  "dna": "034b495c16ede8a5b9f68f5a6275e15782031bc0",
+  "edition": 1,
+  "date": 1680245767858,
+  "attributes": [
+    {
+      "trait_type": "bg",
+      "value": "bg"
+    },
+    {
+      "trait_type": "back",
+      "value": "back"
+    },
+    {
+      "trait_type": "macolor",
+      "value": "macolor"
+    },
+    {
+      "trait_type": "malunkuo",
+      "value": "mulunkuo"
+    },
+    {
+      "trait_type": "eye",
+      "value": "eye"
+    },
+    {
+      "trait_type": "uphead",
+      "value": "uphead"
+    },
+    {
+      "trait_type": "lhand",
+      "value": "lhand"
+    },
+    {
+      "trait_type": "rhand",
+      "value": "rhand"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
