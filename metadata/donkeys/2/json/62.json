@@ -1,0 +1,43 @@
+{
+  "name": "Your Collection #62",
+  "description": "Remember to replace this description",
+  "image": "https://raw.githubusercontent.com/qdwds/NFT-metadata/master/metadata/donkeys/2/images/62.png",
+  "dna": "b255807bc7a92c5f27cf212f2cc8109a15c53c59",
+  "edition": 62,
+  "date": 1680423833270,
+  "attributes": [
+    {
+      "trait_type": "bg",
+      "value": "bg"
+    },
+    {
+      "trait_type": "back",
+      "value": "back"
+    },
+    {
+      "trait_type": "macolor",
+      "value": "macolor"
+    },
+    {
+      "trait_type": "malunkuo",
+      "value": "mulunkuo"
+    },
+    {
+      "trait_type": "eye",
+      "value": "eye"
+    },
+    {
+      "trait_type": "uphead",
+      "value": "uphead"
+    },
+    {
+      "trait_type": "lhand",
+      "value": "lhand"
+    },
+    {
+      "trait_type": "rhand",
+      "value": "rhand"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
